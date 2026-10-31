@@ -1,0 +1,13 @@
+/vendor/
+
+/database/ffos_db.sql
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+/src/public/uploads/

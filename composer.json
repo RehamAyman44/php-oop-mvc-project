@@ -1,0 +1,10 @@
+{
+    "name": "aslam/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aslam\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
